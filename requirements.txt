@@ -1,11 +1,6 @@
 gunicorn==20.1.0
-email-validator==1.1.2
 Flask==1.1.2
 Flask-Email==1.4.4
 Flask-Mail==0.9.1
 Flask-SQLAlchemy==2.5.1
 Flask-WTF==0.14.3
-greenlet==1.0.0
-python-dateutil==2.8.1
-SQLAlchemy==1.4.9
-WTForms==2.3.3
