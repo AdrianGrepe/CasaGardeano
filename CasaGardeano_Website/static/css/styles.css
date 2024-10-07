@@ -463,6 +463,16 @@ footer .AtencionFooter {
 
 
 @media (max-width: 768px) {
+
+    .titulo {
+        font-size: 2em; /* Reduce el tamaño del título */
+    }
+
+    .cuerp {
+        font-size: 1em; /* Ajusta el tamaño del texto del cuerpo */
+    }
+
+
     .imagen-con-boton .tiendaDos {
         width: 80%; /* Reduce el ancho para pantallas más pequeñas */
         transform: translate(-50%, -50%); /* Asegura que esté centrada */
@@ -540,6 +550,16 @@ footer .AtencionFooter {
 }
 
 @media (max-width: 480px) {
+
+    .titulo {
+        font-size: 2em; /* Reduce el tamaño del título */
+    }
+
+    .cuerp {
+        font-size: 1em; /* Ajusta el tamaño del texto del cuerpo */
+    }
+
+
     .imagen-con-boton .tiendaDos {
         width: 90%; /* Aumenta el ancho para dispositivos muy pequeños */
         top: 30%; /* Ajusta la posición vertical según sea necesario */
