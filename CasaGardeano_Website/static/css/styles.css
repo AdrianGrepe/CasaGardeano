@@ -552,7 +552,7 @@ footer .AtencionFooter {
 @media (max-width: 480px) {
 
     .titulo {
-        font-size: 2em; /* Reduce el tamaño del título */
+        font-size: 1.1em; /* Reduce el tamaño del título */
     }
 
     .cuerp {
