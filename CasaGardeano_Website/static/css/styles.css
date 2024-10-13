@@ -514,14 +514,14 @@ footer .AtencionFooter {
     }
 
     .texto-superpuesto1 {
-        font-size: 6px; /* Ajusta el tamaño del texto */
+        font-size: 8px; /* Ajusta el tamaño del texto */
         left: 50%; /* Centra el texto horizontalmente */
         transform: translateX(-50%); /* Aplica transformación para centrar */
         max-width: 80%; /* Asegura que el texto no ocupe más del 80% del contenedor */
     }
 
     .texto-superpuesto2 {
-        font-size: 6px; /* Ajusta el tamaño del texto */
+        font-size: 8px; /* Ajusta el tamaño del texto */
         left: 50%; /* Centra el texto horizontalmente */
         transform: translateX(-50%); /* Aplica transformación para centrar */
         max-width: 80%; /* Asegura que el texto no ocupe más del 80% del contenedor */
@@ -601,22 +601,22 @@ footer .AtencionFooter {
     }
 
     .texto-superpuesto1 {
-        font-size: 6px; /* Ajusta aún más el tamaño del texto */
+        font-size: 8px; /* Ajusta aún más el tamaño del texto */
         max-width: 90%; /* Asegúrate de que ocupe un 90% del contenedor */
     }
 
     .texto-superpuesto2 {
-        font-size: 6px; /* Ajusta aún más el tamaño del texto */
+        font-size: 8px; /* Ajusta aún más el tamaño del texto */
         max-width: 90%; /* Asegúrate de que ocupe un 90% del contenedor */
     }
 
     /* Ajusta la posición vertical según sea necesario */
     .texto-superpuesto1 {
-        top: 85%; /* Ajusta la posición vertical */
+        top: 80%; /* Ajusta la posición vertical */
     }
 
     .texto-superpuesto2 {
-        top: 90%; /* Ajusta la posición vertical */
+        top: 85%; /* Ajusta la posición vertical */
     }
 
     footer {
