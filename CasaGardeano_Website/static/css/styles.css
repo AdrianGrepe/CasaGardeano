@@ -492,6 +492,7 @@ footer .AtencionFooter {
     }
 
     .contenido-doble .imagenes {
+        grid-template-columns: 1fr 1fr;
         flex-direction: column;
         width: 100%;
 
@@ -628,6 +629,13 @@ footer .AtencionFooter {
 
     .texto-superpuesto2 {
         top: 95%; /* Ajusta la posición vertical */
+    }
+
+    .contenido-doble .imagenes {
+        grid-template-columns: 1fr 1fr;
+        flex-direction: column;
+        width: 100%;
+
     }
 
     footer {
