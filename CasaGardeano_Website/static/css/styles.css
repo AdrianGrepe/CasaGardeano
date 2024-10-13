@@ -579,9 +579,9 @@ footer .AtencionFooter {
 
 
     .imagen-con-boton .tiendaDos {
-        width: 90%; /* Aumenta el ancho para dispositivos muy pequeños */
-        top: 30%; /* Ajusta la posición vertical según sea necesario */
-        font-size: 24px; /* Ajusta el tamaño del texto si es necesario */
+        width: 40%; /* Cada sección ocupa un cierto ancho */
+        left: 70%;
+        top: 50%;
     }
 
     .contenido-doble .texto,
