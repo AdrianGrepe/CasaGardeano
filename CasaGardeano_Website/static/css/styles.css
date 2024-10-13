@@ -473,8 +473,7 @@ footer .AtencionFooter {
     }
 
 
-    .imagen-con-boton .tiendaDos,
-    .imagen-separadora-container .btn-overlay {
+    .imagen-con-boton .tiendaDos {
         width: 80%; /* Reduce el ancho para pantallas más pequeñas */
         transform: translate(-50%, -50%); /* Asegura que esté centrada */
         top: 40%; /* Ajusta la posición vertical si es necesario */
@@ -526,6 +525,10 @@ footer .AtencionFooter {
         left: 40%; /* Centra el texto horizontalmente */
         transform: translateX(-50%); /* Aplica transformación para centrar */
         max-width: 80%; /* Asegura que el texto no ocupe más del 80% del contenedor */
+    }
+
+    .imagen-separadora-container .btn-overlay {
+        width: 50%; /* Cada sección ocupa un cierto ancho */
     }
 
     /* Ajusta la posición vertical según sea necesario */
