@@ -612,11 +612,11 @@ footer .AtencionFooter {
 
     /* Ajusta la posición vertical según sea necesario */
     .texto-superpuesto1 {
-        top: 80%; /* Ajusta la posición vertical */
+        top: 90%; /* Ajusta la posición vertical */
     }
 
     .texto-superpuesto2 {
-        top: 85%; /* Ajusta la posición vertical */
+        top: 95%; /* Ajusta la posición vertical */
     }
 
     footer {
