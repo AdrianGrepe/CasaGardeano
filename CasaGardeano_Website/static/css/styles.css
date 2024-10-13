@@ -529,6 +529,7 @@ footer .AtencionFooter {
 
     .imagen-separadora-container .btn-overlay {
         width: 20%; /* Cada sección ocupa un cierto ancho */
+        top: 10%;
     }
 
     /* Ajusta la posición vertical según sea necesario */
