@@ -515,14 +515,14 @@ footer .AtencionFooter {
 
     .texto-superpuesto1 {
         font-size: 8px; /* Ajusta el tamaño del texto */
-        left: 50%; /* Centra el texto horizontalmente */
+        left: 30%; /* Centra el texto horizontalmente */
         transform: translateX(-50%); /* Aplica transformación para centrar */
         max-width: 80%; /* Asegura que el texto no ocupe más del 80% del contenedor */
     }
 
     .texto-superpuesto2 {
         font-size: 8px; /* Ajusta el tamaño del texto */
-        left: 50%; /* Centra el texto horizontalmente */
+        left: 30%; /* Centra el texto horizontalmente */
         transform: translateX(-50%); /* Aplica transformación para centrar */
         max-width: 80%; /* Asegura que el texto no ocupe más del 80% del contenedor */
     }
