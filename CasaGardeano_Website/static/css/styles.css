@@ -485,7 +485,6 @@ footer .AtencionFooter {
     }
 
     .contenido-doble .texto,
-    .contenido-doble .imagenes,
     .fondo-con-texto .texto-sobre-fondo,
     .seccion-imagen-texto .texto-boton {
         width: 100%; /* Cada sección ocupa todo el ancho disponible */
