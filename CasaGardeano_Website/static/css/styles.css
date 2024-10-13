@@ -491,6 +491,11 @@ footer .AtencionFooter {
         padding-right: 0; /* Elimina el padding derecho para mantener la estética */
     }
 
+    .contenido-doble .imagenes {
+        width: 100%;
+    }
+
+
     .imagen-con-texto .texto-sobre-imagen,
     .imagen-con-texto .texto-sobre-imagen2,
     .imagen-con-texto .texto-sobre-imagen3 {
