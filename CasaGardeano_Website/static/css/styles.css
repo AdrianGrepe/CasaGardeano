@@ -487,7 +487,8 @@ footer .AtencionFooter {
     .contenido-doble .texto,
     .contenido-doble .imagenes,
     .fondo-con-texto .texto-sobre-fondo,
-    .seccion-imagen-texto .texto-boton {
+    .seccion-imagen-texto .texto-boton,
+    .imagen-separadora-container .btn-overlay {
         width: 100%; /* Cada sección ocupa todo el ancho disponible */
         padding-right: 0; /* Elimina el padding derecho para mantener la estética */
     }
