@@ -485,14 +485,17 @@ footer .AtencionFooter {
     }
 
     .contenido-doble .texto,
-    .contenido-doble .imagenes .img-abajo,
     .fondo-con-texto .texto-sobre-fondo,
     .seccion-imagen-texto .texto-boton {
         width: 100%; /* Cada sección ocupa todo el ancho disponible */
         padding-right: 0; /* Elimina el padding derecho para mantener la estética */
     }
 
+    .contenido-doble .imagenes {
+        flex-direction: column;
+        width: 100%;
 
+    }
 
 
     .imagen-con-texto .texto-sobre-imagen,
