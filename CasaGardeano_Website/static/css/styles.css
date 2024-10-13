@@ -534,12 +534,16 @@ footer .AtencionFooter {
         max-width: 80%; /* Asegura que el texto no ocupe más del 80% del contenedor */
     }
 
-    .imagen-separadora-container .btn-overlay,
-    .imagen-con-boton .tiendaDos {
+    .imagen-separadora-container .btn-overlay {
         width: 20%; /* Cada sección ocupa un cierto ancho */
         top: 63%;
     }
 
+    .imagen-con-boton .tiendaDos {
+        width: 40%; /* Cada sección ocupa un cierto ancho */
+        right: 33%;
+    }
+    
     /* Ajusta la posición vertical según sea necesario */
     .texto-superpuesto1 {
         top: 90%; /* Ajusta la posición vertical */
