@@ -540,7 +540,7 @@ footer .AtencionFooter {
     }
 
     .imagen-con-boton .tiendaDos {
-        width: 40%; /* Cada sección ocupa un cierto ancho */
+        width: 80%; /* Cada sección ocupa un cierto ancho */
         right: 13%;
     }
     
