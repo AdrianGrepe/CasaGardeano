@@ -502,7 +502,7 @@ footer .AtencionFooter {
     .imagen-con-texto .texto-sobre-imagen,
     .imagen-con-texto .texto-sobre-imagen2,
     .imagen-con-texto .texto-sobre-imagen3 {
-        font-size: 15px; /* Ajusta el tamaño del texto */
+        font-size: 10px; /* Ajusta el tamaño del texto */
         left: 30%; /* Centra el texto horizontalmente */
         transform: translateX(-50%); /* Aplica transformación para centrar */
         max-width: 80%; /* Asegura que el texto no ocupe más del 80% del contenedor */
@@ -602,7 +602,7 @@ footer .AtencionFooter {
     .imagen-con-texto .texto-sobre-imagen,
     .imagen-con-texto .texto-sobre-imagen2,
     .imagen-con-texto .texto-sobre-imagen3 {
-        font-size: 15px; /* Ajusta aún más el tamaño del texto para pantallas pequeñas */
+        font-size: 7px; /* Ajusta aún más el tamaño del texto para pantallas pequeñas */
         max-width: 80%; /* Asegúrate de que ocupe un 90% del contenedor */
     }
 
