@@ -276,7 +276,7 @@ div button:hover {
     left: 25%; /* Ajusta la posición horizontal del texto */
     transform: translateX(-45%); /* Ajusta la posición horizontal para centrar el texto dentro del ancho deseado */
     max-width: 50%; /* Ajusta el ancho máximo del texto (puedes cambiar el valor según sea necesario) */
-    font-size: 70px; /* Tamaño de la fuente */
+    font-size: 65px; /* Tamaño de la fuente */
     color: black; /* Color del texto */
     font-family: 'Montserrat', sans-serif; /* Fuente del texto */
     font-weight: 900; /* Peso del texto */
@@ -293,7 +293,7 @@ div button:hover {
     left: 25%; /* Ajusta la posición horizontal del texto */
     transform: translateX(-45%); /* Ajusta la posición horizontal para centrar el texto dentro del ancho deseado */
     max-width: 50%; /* Ajusta el ancho máximo del texto (puedes cambiar el valor según sea necesario) */
-    font-size: 50px; /* Tamaño de la fuente */
+    font-size: 45px; /* Tamaño de la fuente */
     color: black; /* Color del texto */
     font-family: 'Montserrat', sans-serif; /* Fuente del texto */
     font-weight: 300; /* Peso del texto */
@@ -309,7 +309,7 @@ div button:hover {
     left: 25%; /* Ajusta la posición horizontal del texto */
     transform: translateX(-45%); /* Ajusta la posición horizontal para centrar el texto dentro del ancho deseado */
     max-width: 50%; /* Ajusta el ancho máximo del texto (puedes cambiar el valor según sea necesario) */
-    font-size: 50px; /* Tamaño de la fuente */
+    font-size: 45px; /* Tamaño de la fuente */
     color: black; /* Color del texto */
     font-family: 'Montserrat', sans-serif; /* Fuente del texto */
     font-weight: 900; /* Peso del texto */
